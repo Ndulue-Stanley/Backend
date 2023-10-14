@@ -1,0 +1,168 @@
+
+
+.holder{
+    width: 96%;
+    height: 160px;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.spon{
+    background-color: green;
+    width: 100%;
+    height: 10%;
+}
+
+.fi{
+    width: 100%;
+    height: 30%;
+    background-color: indigo;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fipics{
+    background-color: aqua;
+    width: 85px;
+    height: 100%;
+}
+
+.text{
+    width: 170px;
+    background-color: blue;
+    height: 40px;
+    font-size: 16px;
+}
+
+.sec{
+    width: 100%;
+    height: 42%;
+    background-color: violet;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.secpic{
+    width: 100px;
+    height: 100%;
+    background-color: black;
+}
+
+.m{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.cre{
+    background-color: orangered;
+    width: 96%;
+    height: 120px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.pag{
+    width: 100%;
+    height: 15%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;justify-content: space-between;
+}
+
+.d{
+    width: 20px;
+    height: 20px;
+}
+
+.dan{
+    width: 100%;
+    height: 20%;
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+}
+
+.danpic{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: aqua;
+}
+
+.f{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+}
+
+.bell{
+    width: 100%;
+    height: 15%;
+    background-color: white;
+    display: flex;align-items: center;
+}
+
+.b{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mic{
+    width: 100%;
+    height: 22%;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    
+}
+
+.micpic{
+    background-color: gold;
+    width: 30px;
+    height: 30px;
+}
+
+.a{
+    width: 100%;
+    height: 100%;
+}
+
+.birth{
+    margin-top: 10px;
+    background-color: darkblue;
+    width: 96%;
+    height: 150;
+    margin-bottom: 10px;
+}
+
+.x{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.blog{
+    background-color: blue;
+    border-radius: 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.btext{
+    margin-left: 10px;
+    font-size: 13px;
+}

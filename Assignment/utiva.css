@@ -1,0 +1,546 @@
+*{
+    margin: 0%;
+}
+.container{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.wrapper{
+    height: 100%;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text{
+    height: 90%;
+    width: 25%;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.buttons{
+    height: 90%;
+    width: 20%;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.button1{
+    height: 50%;
+    width: 45%;
+    background-color: orange;
+    border-radius: 10px;
+    margin-left: 20px;
+    color: white;
+    border-color: orange;
+}
+.button2{
+    height: 50%;
+    width: 40%;
+    background-color: white;
+    border-radius: 10px;
+    border-color: black;
+}
+.main{
+    height: 657px;
+    width: 95%;
+   
+    display: flex;
+    justify-content: space-evenly;
+}
+.main1{
+    height: 100%;
+    width: 50%;
+    
+}
+.main2{
+    height: 100%;
+    width: 50%;
+   margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.top{
+    font-size: 60px;
+    color:  rgb(9, 9, 92);;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 40px;
+}
+.lorem{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.out{
+    height: 65%;
+    width: 45%;
+    border-radius: 10px;
+    background-color: orange;
+    font-size: 20px;
+    border-color: orange;
+
+}
+.in{
+    height: 65%;
+    width: 45%;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 20px;
+    color:  rgb(9, 9, 92);;
+    border-color: orange;
+    
+}
+.avatar{
+    height: 70px;
+    width: 70%;   
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.over{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.read{
+    font-size: 20px;
+    font-weight: bold;
+    color:  rgb(9, 9, 92);;
+    margin-right: 30px;
+}
+.chi{
+    height: 95%;
+    width: 70%;
+    background-image: url(.//images/chisom2.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.avatar2{
+    height: 100%;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 40px;
+}
+.what{
+    height: 100x;
+    width: 95%;
+    margin-top: 100px;
+}
+.best{
+    font-size: 45px;
+    color:  rgb(9, 9, 92);;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.learn{
+    height: 380px;
+    width:  95%;
+    display: flex;
+    justify-content: space-between;
+}
+.boot{
+height: 100%;
+width: 49%;
+background-color: rgba(245, 245, 245, 0.616);
+box-shadow: 0 5px  5px   rgb(83, 78, 78);
+}
+.tech{
+    height: 100%;
+    width: 49%;
+    background-color: rgba(245, 245, 245, 0.616);box-shadow: 20px;box-shadow: 0 5px  5px  rgb(82, 77, 77);
+    }
+.camp{
+    height: 40px;
+    width: 20%;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(5, 177, 5);
+    border-color: rgb(4, 177, 4);
+}
+.inte{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.vir{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.view{
+    font-size: 25px;
+    color:  rgb(9, 9, 92);;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.intern{
+    height: 40px;
+    width: 40%;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(5, 177, 5);
+    border-color: rgb(4, 177, 4);
+}
+.work{
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.vi{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.vie{
+    font-size: 25px;
+    color:  rgb(9, 9, 92);;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dig{
+    margin-top: 70px;
+    font-size: 
+    55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+.we{
+    font-size: 22px;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.impact{
+    height: 400px;
+    width: 95%;
+    box-shadow: 0 5px  5px   rgb(80, 74, 74);
+}
+.is{
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:  rgb(9, 9, 92);;
+    margin-left: 20px;
+}
+.utiva{
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.more{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    margin-top: 50px;
+    color:  rgb(9, 9, 92);;
+}
+.enter{
+    height: 400px;
+    width: 95%;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+.one{
+    height: 95%;
+    width: 25%;
+    background-image: url(./images/impact1.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.two{
+    height: 95%;
+    width: 25%;
+    background-image: url(./images/impact2.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.three{
+    height: 95%;
+    width: 25%;
+    background-image: url(./images/impact3.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.four{
+    height: 95%;
+    width: 25%;
+    background-image: url(./images/impact4.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.map{
+    height: 700px;
+    width: 100%;
+    background-color: rgb(9, 9, 92);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.will{
+    height: 30%;
+    width: 100%;
+    padding-bottom: 50px;
+}
+.lap{
+    height: 70%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding-bottom: 200px;
+}
+.omo{font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.skill{
+    font-size: 20px;
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.laptop{
+    height: 80%;
+    width: 25%;
+    display: flex;align-items: center;
+    flex-direction: column;
+}
+
+.people{
+    height: 80%;
+    width: 25%;
+    display: flex;align-items: center;flex-direction: column;
+}
+.message{
+    height: 80%;
+    width: 25%;
+    display: flex;align-items: center;flex-direction: column;
+}
+.stats{
+    height: 80%;
+    width: 25%;
+    display: flex;align-items: center;flex-direction: column;
+}
+.lappy{
+    height: 60%;
+    width: 80%;
+   
+}
+.imma{
+    font-size: 25px;
+font-weight: bolder;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-left: 25px;color: white;
+
+}
+.wow{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(9, 9, 92);
+    padding-top: 200px;
+}
+.acc{
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+padding-left: 35px;
+}
+.avatar3{
+    height: 80px;
+    width: 350px;
+padding-bottom: 50PX;
+    padding-right: 30px;
+display: flex;justify-content: space-between;align-items: center;
+}
+.testi{
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.thirty{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(9, 9, 92);
+    display: flex;
+    justify-content: center;
+}
+.kk{
+    height: 100%;
+    width: 25%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;flex-direction: column;
+    
+}
+.girl{
+    height: 100%;
+    width: 25%;
+    background-image: url(./images/girl.webp);background-size: contain;
+}
+.kkkk{
+    height: 100%;
+    width: 25%;
+    background-color: rgb(4, 206, 4);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;flex-direction: column;
+}
+.boy{
+    height: 100%;
+    width: 25%;
+    background-image: url(./images/boy.webp);background-size: contain;
+}
+.div2{
+  height: 100%px;
+  width: 95%;
+}
+.platform{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 40px;
+}
+.get{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: orange;
+    padding-top: 25px;
+}
+.palmpay{
+    height: 40px;
+    width: 100%;
+   display: flex;flex-direction: row;
+   padding-top: 100px;
+}
+.uber{
+    height: 100%;
+    width: 11.11%;
+    background-image: url(./images/Uber.fafebfc6.png);background-size: contain;background-repeat: no-repeat;
+}
+.bolt{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/bolt.117bf8fd.png);
+}
+.paystack{
+    height: 100%;
+    width: 11.11%;background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/paystack.5577e2b0.png);
+}
+.facebook{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/facebook.b3379556.webp);
+}
+.google{
+    height: 100%;
+    width: 11.11%;
+    background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/google.9d00820e.jpg);
+}
+.opay{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/opay.1085497c.webp);
+}
+.master{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/mastercard.fee2b8c6.webp);
+}
+.mono{
+    height: 100%;
+    width: 11.11%;
+    background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/mono.b4cdd575.jpeg);
+}
+.palm{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/palmpay.f4ba7c46.jpeg);
+}
+.palmpa{
+    height: 40px;
+    width: 100%;
+   display: flex;flex-direction: row;
+   padding-top: 100px;align-items: center;
+}
+.ube{
+    height: 100%;
+    width: 11.11%;
+    background-image: url(./images/cowrywise.cc1949d4.png);background-size: contain;background-repeat: no-repeat;
+}
+.bol{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/nomba.e2ea1ed9.jpeg);
+}
+.pays{
+    height: 100%;
+    width: 11.11%;background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/flutterwave.6e97705a.png);
+}
+.face{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/bamboo.05accedd.png);
+}
+.goog{
+    height: 100%;
+    width: 11.11%;
+    background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/macdonald.69fd4c16.png);
+}
+.opa{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/kpmg.4a1c032e.png);
+}
+.maste{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/Kuda-Bank.3e811ec3.png);
+}
+.mon{
+    height: 100%;
+    width: 11.11%;
+    background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/bundle.198a3754.png);
+}
+.pal{
+    height: 100%;
+    width: 11.11%;
+   background-size: contain;background-repeat: no-repeat;
+    background-image: url(./images/capitalOne.c4dd2a9e.png);
+}

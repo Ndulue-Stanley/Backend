@@ -1,0 +1,51 @@
+*{
+
+}
+
+.showcase{
+    height: 40vh;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.logos{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.desc{
+    background-color: blue;
+    display: grid;
+    grid-column: span 2/3;
+
+}
+
+.logoImg{
+    background-color: palegreen;
+}
+
+.features{
+    height: 100vh;
+    background-color: purple;
+    margin-top: 40px;
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.title{
+    background-color: peru;
+}
+
+.featureSection{
+    display: grid;
+    grid-row: span 2;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.cards{
+    background-color:rgb(9, 87, 156) ;
+}

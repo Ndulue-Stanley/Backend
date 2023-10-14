@@ -1,0 +1,190 @@
+*{
+    margin: 0%;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+}
+.bck-img{
+    height: 73vh;
+    width: 100%;
+   background-image: url(./images/pexels-frank-cone-17398574\ \(3\).jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.logo{
+    width: 200px;
+    height: 70px;
+    
+}
+header{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.new{
+    width: 600px;
+    height: 70px;
+    
+}
+.logo1{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding-left: 40px;
+}
+.new{
+font-size: 23px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: bolder;
+color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.button{
+    height: 55px;
+    width: 100px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 
+    'Times New Roman', serif;
+    font-weight: bolder;
+    background-color: white;
+    border-radius: 10px;
+}
+.header2{
+    width: 70%;
+    height: 500px;
+    background-color: red;
+}
+main{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text{
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white; 
+    padding-bottom: 20px;
+}
+/* .input{
+    height: 50px;
+    width: 650px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: white;
+    font-size: 20px;
+    color: black;
+} */
+.non{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 22px;
+    font-weight: bold;
+    padding-right: 249px;
+    padding-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.trending{
+    color: whitesmoke;
+    padding-left: 5px;
+}
+.car{
+    color: white;
+    padding-left: 6px;
+}
+.outside{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    width: 100%;
+    padding-top: 25px;
+}
+.button{
+    height: 55px;
+    width: 100px;
+        border-radius: 20px;
+         color: white;
+         font-size: 20px;
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: black;
+}
+
+.anyhow{
+    height: 50px;
+    width: 650px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.photos{
+    font-weight: bold;
+    padding: 10px 25px;
+    background-color: gainsboro;
+    margin-left: 5px;
+    border-radius: 4px;
+    font-size: 20px;
+}
+.icon{
+    font-weight: bold;
+    padding: 10px 9px;
+    background-color: gainsboro;
+    margin-left: 10px;
+    border-radius: 4px;
+    font-size: 20px;
+}
+input{
+    height: 89%;
+    width: 75%;
+    border-color: white;
+    font-size: 20px;
+}
+.mainn{
+    display: flex;
+    justify-content: space-between;
+    height: 1000px;
+    width: 95%;
+    
+}
+.mainn1{
+    height: 39.5%;
+    width: 30%;
+    background-image: url(./images/pexels-francesco-ungaro-17137721.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.mainn2{
+    
+    height: 100%;
+    width: 30%;
+    background-image: url(./images/pexels-lisa-fotios-11404735.jpg);
+    background-size: cover;
+}
+.mainn3{
+    height: 50%;
+    width: 35%;
+    
+    background-image: url(./images/pexels-gabriel-chamak-13351967.jpg);
+    background-size: cover;
+}
